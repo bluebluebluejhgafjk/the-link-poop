@@ -70,3 +70,8 @@ That's it — should be running cleanly after that.
 ## My plans for this thing
 
 I'll try my best to keep it working, but I have a life and I'm not a great programmer, so no promises.
+
+# What is inside the md5 list.
+It is just bunch of annoying genuinely meaningless pics like log posts, and that dude that posts BBC.
+Because of github caching the thing is updating slowly, so it will take some time like 1-4 minutes so that on your side as client the md5 fully load, check if exist in current filter, and get added.
+I will also making this project bigger by for example adding regex for some generals and just usual threads like nudify, tribute, wife/gf.
